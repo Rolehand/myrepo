@@ -1,2 +1,2 @@
 # myrepo
-test
+Das ist ein Test-Repo.

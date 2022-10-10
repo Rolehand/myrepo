@@ -1,2 +1,2 @@
 # myrepo
-Das ist ein Testrepo.
+Das ist ein Test-repo.
